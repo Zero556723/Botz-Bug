@@ -56,8 +56,8 @@ global.mess = {
 }
 //===========================//
 EOF
+clear
 echo ""
-clear 
 echo -e "${y} Menjalankan Botz-Bug...!!${n}"
 echo ""
 npm install 
