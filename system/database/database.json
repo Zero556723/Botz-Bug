@@ -1,0 +1,45 @@
+{
+  "users": {
+    "6285850268349@s.whatsapp.net": {
+      "premiumTime": 0,
+      "name": "No Name",
+      "premium": false
+    },
+    "120363320426852550@newsletter": {
+      "premiumTime": 0,
+      "name": "No Name",
+      "premium": false
+    },
+    "62856048897010@s.whatsapp.net": {
+      "premiumTime": 0,
+      "name": "No Name",
+      "premium": false
+    },
+    "6285891267541@s.whatsapp.net": {
+      "premiumTime": 0,
+      "name": "hai",
+      "premium": false
+    }
+  },
+  "chats": {
+    "6285850268349@s.whatsapp.net": {},
+    "120363320426852550@newsletter": {},
+    "62856048897010@s.whatsapp.net": {},
+    "120363224787784615@g.us": {}
+  },
+  "game": {},
+  "settings": {
+    "6285850268349@s.whatsapp.net": {
+      "status": 0,
+      "stock": 10,
+      "public": false
+    },
+    "62856048897010@s.whatsapp.net": {
+      "status": 0,
+      "stock": 10,
+      "public": false
+    }
+  },
+  "others": {},
+  "sticker": {}
+}
