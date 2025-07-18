@@ -16,8 +16,6 @@ echo -e "${g}"
 read -p "Masukkan nomor owner : " owner
 echo -e "${c}"
 read -p "Masukkan nomor premium : " prem
-echo -e "${p}"
-read -p "Masukkan nomor add prem : " no
 echo ""
 cat <<EOF > owner.json
 {
